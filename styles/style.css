@@ -103,16 +103,16 @@ main {
 main h1 {
 
     color: var(--cor5);
-    font-family: var(--fonte-android);
-    font-weight: normal;
+    font-family: var(--fonte-padrao);
+    font-weight: bold;
     font-size: 1.8em;
 }
 
 main h2 {
     color: var(--cor4);
-    font-family: var(--fonte-android);
+    font-family: var(--fonte-padrao);
     font-size: 1.3em;
-    font-weight: normal;
+    font-weight: bold;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
 }
